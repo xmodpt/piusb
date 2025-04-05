@@ -20,7 +20,7 @@ This script turns your Raspberry Pi into:
 1. A virtual USB flash drive that connects directly to your 3D printer
 2. A web-accessible file manager for remotely uploading and managing your print files
 
-Simply upload your G-code files through the web interface from anywhere on your network, and they'll be immediately available to your printer through the USB connection. No more shuffling SD cards or USB drives between devices!
+Simply upload your files through the web interface from anywhere on your network, and they'll be immediately available to your printer through the USB connection. No more shuffling SD cards or USB drives between devices!
 
 ## Features
 
