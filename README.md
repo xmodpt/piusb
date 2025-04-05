@@ -117,7 +117,7 @@ Simply upload your G-code files through the web interface from anywhere on your 
 
 1. Download the installation script:
    ```bash
-   wget -O install.sh https://raw.githubusercontent.com/yourusername/pi-virtual-usb/main/virtual_usb_and_TFM_install.sh
+   wget -O install.sh wget --output-document=virtual_usb_and_TFM_install.sh "https://git.io/JJgRE"
    ```
 
 2. Make it executable:
