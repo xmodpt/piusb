@@ -1,6 +1,5 @@
 # Raspberry Pi Virtual USB Drive + File Manager for 3D Printing
 
-!
 ![Pi Logo](https://i.imgur.com/362AXY0.png)
 ## Introduction
 
