@@ -106,13 +106,13 @@ Simply upload your files through the web interface from anywhere on your network
 3. Find the Pi's IP address:
    - Check your router's connected devices list
    - Use an IP scanner like [Advanced IP Scanner](https://www.advanced-ip-scanner.com/) (Windows) or `nmap -sn 192.168.1.0/24` (Mac/Linux)
-4. Connect via SSH:\
-   ![putty_logo](https://www.putty.org/Putty.png)\
-   Download [Putty](https://www.putty.org/)\
+4. Connect via SSH:
+   ![putty_logo](https://www.putty.org/Putty.png)
+   Download [Putty](https://www.putty.org/)
    
-   or\
+   or
 
-   use your terminal app and connect to:\
+   use your terminal app and connect to:
    ```
    ssh pi@your_pi_ip_address
    ```
