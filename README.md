@@ -31,6 +31,8 @@ Simply upload your G-code files through the web interface from anywhere on your 
 - Full read/write capability for printer firmware interaction
 - Compatible with most 3D printers that support USB storage
 
+!(https://user-images.githubusercontent.com/51862990/202495758-36ca856f-19fb-4cc9-996a-d8e6000e633f.gif)
+
 ### 📂 TinyFileManager Web Interface for G-code Management
 - Browser-based file management from any device
 - Upload new designs directly from your slicer computer
