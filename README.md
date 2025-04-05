@@ -108,9 +108,9 @@ Simply upload your files through the web interface from anywhere on your network
    - Use an IP scanner like [Advanced IP Scanner](https://www.advanced-ip-scanner.com/) (Windows) or `nmap -sn 192.168.1.0/24` (Mac/Linux)
 4. Connect via SSH:
 
-   ![Putty Logo](https://your-image-url.com/putty_logo.png)  
+   ![Putty Logo](https://www.putty.org/Putty.png)  
    
-   [Download Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
+   [Download Putty](https://www.putty.org/)
    
    or
 
