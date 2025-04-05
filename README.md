@@ -157,7 +157,7 @@ Simply upload your files through the web interface from anywhere on your network
    - Administrator: `admin / admin@123`
    - User: `user / 12345`
 3. **Important:** Change the default passwords immediately
-4. Upload your G-code files directly through the web interface
+4. Upload your files directly through the web interface
 5. Organize files by creating folders for different projects or print types
 6. Your uploaded files will be instantly available to your 3D printer
 7. Use the preview feature to verify G-code before printing
