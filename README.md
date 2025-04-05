@@ -1,7 +1,7 @@
 # Raspberry Pi Virtual USB Drive + File Manager for 3D Printing
 
-!https://i.imgur.com/362AXY0.png
-
+!
+![Pi Logo](https://i.imgur.com/362AXY0.png)
 ## Introduction
 
 This project transforms a Raspberry Pi Zero W into the perfect companion for your 3D printer. By emulating a USB flash drive and providing a web-based file manager, it creates a seamless bridge between your design workflow and your 3D printer.
