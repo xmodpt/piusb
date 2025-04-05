@@ -31,7 +31,7 @@ Simply upload your G-code files through the web interface from anywhere on your 
 - Full read/write capability for printer firmware interaction
 - Compatible with most 3D printers that support USB storage
 
-![Tiny File Manager](https://imgur.com/IGjy2kM)
+![Tiny File Manager](https://i.imgur.com/IGjy2kM)
 
 ### 📂 TinyFileManager Web Interface for G-code Management
 - Browser-based file management from any device
