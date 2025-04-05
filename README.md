@@ -117,17 +117,17 @@ Simply upload your G-code files through the web interface from anywhere on your 
 
 1. Download the installation script:
    ```bash
-   wget -O install.sh wget --output-document=virtual_usb_and_TFM_install.sh "https://git.io/JJgRE"
+   wget -O virtual_usb_and_TFM_install.sh wget --output-document=virtual_usb_and_TFM_install.sh "https://git.io/JJgRE"
    ```
 
 2. Make it executable:
    ```bash
-   chmod +x install.sh
+   chmod +x virtual_usb_and_TFM_install.sh
    ```
 
 3. Run with sudo:
    ```bash
-   sudo ./install.sh
+   sudo ./virtual_usb_and_TFM_install.sh
    ```
 
 4. Follow the on-screen prompts:
@@ -184,10 +184,10 @@ Simply upload your G-code files through the web interface from anywhere on your 
 
 1. Run the installation script again:
    ```bash
-   sudo ./install.sh
+   sudo ./virtual_usb_and_TFM_install.sh
    ```
 2. Choose option 1 (USB drive configuration only)
-3. Select "n" when asked to keep existing setup
+3. Select "n" when asked to keep existing setup (this will delete all contents of the old drive)
 4. Choose a larger size
 5. Reboot when finished
 
@@ -242,6 +242,9 @@ The script makes the following changes to your system:
 ### 3D Printer Compatibility
 
 This solution has been tested with various 3D printers including:
+- Elegoo Mars 2 / Pro
+- Elegoo Mars 3 / Pro
+- Anycubic Photon
 - Creality Ender series
 - Prusa i3 variants
 - Anycubic printers
