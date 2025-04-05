@@ -107,8 +107,9 @@ Simply upload your files through the web interface from anywhere on your network
    - Check your router's connected devices list
    - Use an IP scanner like [Advanced IP Scanner](https://www.advanced-ip-scanner.com/) (Windows) or `nmap -sn 192.168.1.0/24` (Mac/Linux)
 4. Connect via SSH:
-   ![putty_logo](https://www.putty.org/Putty.png)\n
-   Download [Putty](https://www.putty.org/)
+![putty_logo](URL_TO_IMAGE)  
+[Download Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
+
    
    or
 
