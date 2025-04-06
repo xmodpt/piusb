@@ -9,7 +9,7 @@ This project transforms a Raspberry Pi Zero W into the perfect companion for you
 
 Managing 3D printing files typically involves a cumbersome workflow:
 - Design your model on your computer
-- Export to STL/G-code
+- Export Sliced files
 - Copy to an SD card or USB drive
 - Physically transfer to your printer
 - Repeat for every iteration
@@ -27,17 +27,16 @@ Simply upload your files through the web interface from anywhere on your network
 ### 🔌 USB Drive Emulation for 3D Printers
 - Configurable storage size (4GB, 8GB, 16GB, 32GB, or custom)
 - Appears as a Kingston DataTraveler USB drive to your 3D printer
-- Persists your G-code files between prints and power cycles
+- Persists your files between prints and power cycles
 - Full read/write capability for printer firmware interaction
 - Compatible with most 3D printers that support USB storage
 
 ![Tiny File Manager](https://i.imgur.com/IGjy2kM.png)
 
-### 📂 TinyFileManager Web Interface for G-code Management
+### 📂 TinyFileManager Web Interface for file Management
 - Browser-based file management from any device
 - Upload new designs directly from your slicer computer
 - Organize designs in folders by project or type
-- Preview G-code files before printing
 - Delete failed designs or old versions
 - Archive completed projects
 - Secure login system
@@ -168,7 +167,7 @@ Simply upload your files through the web interface from anywhere on your network
 4. Upload your files directly through the web interface
 5. Organize files by creating folders for different projects or print types
 6. Your uploaded files will be instantly available to your 3D printer
-7. Use the preview feature to verify G-code before printing
+
 
 ### Network Share Access
 
@@ -263,7 +262,7 @@ Note: Some 3D printers may have specific USB implementation quirks. The script u
 
 ### Workflow Integration Ideas
 
-- **Slicer Integration**: Save G-code outputs directly to the network share
+- **Slicer Integration**: Save output files directly to the network share
 - **Print Archive**: Keep a library of successful prints for future reference
 - **Remote Management**: Start prints remotely by organizing "ready to print" folders
 - **Print Farm Management**: Use multiple Pis to create a centralized file system for multiple printers
