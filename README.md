@@ -126,7 +126,7 @@ Simply upload your files through the web interface from anywhere on your network
 
 1. Download the installation script:
    ```bash
-   wget https://github.com/xmodpt/piusb/blob/main/virtual_usb_and_TFM_install.sh
+   wget https://raw.githubusercontent.com/xmodpt/piusb/refs/heads/main/virtual_usb_and_TFM_install.sh
    ```
 
 2. Make it executable:
